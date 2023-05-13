@@ -1,0 +1,9 @@
+Sat May 13 21:10:51 2023 
+ Satın alınan meyve suyu: Elma Suyu 
+ Toplam tutar: 13.5Sat May 13 21:12:13 2023 
+ Satın alınan meyve suyu: Elma Suyu 
+ Toplam tutar: 8.5Sat May 13 21:35:45 2023 
+ Satın alınan meyve suyu: Elma Suyu 
+ Toplam tutar: 8.5Sat May 13 21:41:42 2023 
+ Satın alınan meyve suyu: Elma Suyu 
+ Toplam tutar: 8.5
